@@ -1,0 +1,9 @@
+export TF_VAR_org_id=45047455793
+export TF_VAR_billing_account=013B84-E17EE0-326B09
+export TF_ADMIN=tangerine-terraform
+export TF_CREDS=/Users/chanatinatnakchang/.config/gcloud/tangerine-terraform.json
+export TF_VAR_project_name=${USER}-test-compute
+export TF_VAR_region=asia-southeast1
+
+
+gcloud auth application-default login
